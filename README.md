@@ -15,3 +15,5 @@ Beginning with over 35 Gigabytes of data, we predict which books will be predict
 [Andrew Eaton](https://github.com/aweeaton)
 
 [Shishir Kumar](https://github.com/ShishirKumar93)
+
+[Ash Jha](https://github.com/ash-jha)
