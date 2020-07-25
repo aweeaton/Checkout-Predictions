@@ -17,3 +17,5 @@ Beginning with over 35 Gigabytes of data, we predict which books will be predict
 [Shishir Kumar](https://github.com/ShishirKumar93)
 
 [Ash Jha](https://github.com/ash-jha)
+
+[Lori Sheng](https://github.com/lsheng23)
